@@ -1,0 +1,11 @@
+[project]
+name = "sutton-and-barto"
+version = "0.1.0"
+description = "Implementation of reinforcement learning algorithms from Sutton & Barto, 2020"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "numpy",
+    "matplotlib",
+    "black",
+]
