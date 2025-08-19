@@ -2,3 +2,5 @@
 /01_tic-tac-toe.py
 /policy_first.bin
 /policy_second.bin
+*.png
+.DS_Store
