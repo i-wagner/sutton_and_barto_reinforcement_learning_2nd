@@ -61,6 +61,8 @@ source .venv/bin/activate  # Or .venv\Scripts\activate on Windows
 uv pip install .
 ```
 
+---
+
 ## 🗂️ Repository structure
 
 The repository structure and key scripts are highlighted below:
